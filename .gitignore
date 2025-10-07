@@ -82,6 +82,8 @@ Thumbs.db        # Windows ËõÂÔÍ¼»º´æ
 **/uv4.log
 **/uv4.log.lock
 **/Template.build_log.htm
+
 **/main.log
 **/main.pdf
 **/main.synctex.gz
+**/main.aux
