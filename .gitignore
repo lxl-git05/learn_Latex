@@ -82,3 +82,6 @@ Thumbs.db        # Windows ËõÂÔÍ¼»º´æ
 **/uv4.log
 **/uv4.log.lock
 **/Template.build_log.htm
+latex_study/main.log
+latex_study/main.pdf
+latex_study/main.synctex.gz
